@@ -1,0 +1,58 @@
+[
+  {
+    "address": "10.0.20.3",
+    "canvasX": 350,
+    "canvasY": 50,
+    "name": "Mr. White",
+    "color": "#bbbbbb",
+    "pingOnly": true
+  },
+  {
+    "address": "10.0.20.4",
+    "canvasX": 503,
+    "canvasY": 95,
+    "name": "Nice Guy",
+    "color": "#a9a9a9",
+    "pingOnly": true
+  },
+  {
+    "address": "10.0.20.5",
+    "canvasX": 200,
+    "canvasY": 350,
+    "name": "Mr. Orange",
+    "color": "#ff7f00",
+    "pingOnly": true
+  },
+  {
+    "address": "10.0.20.6",
+    "canvasX": 400,
+    "canvasY": 350,
+    "name": "Mr. Blue",
+    "color": "#1e75a9",
+    "pingOnly": true
+  },
+  {
+    "address": "10.0.20.7",
+    "canvasX": 95,
+    "canvasY": 95,
+    "name": "Mr. Pi",
+    "color": "#ff0000",
+    "pingOnly": true
+  },
+  {
+    "address": "https://live.12urenloop.be/scores",
+    "canvasX": 300,
+    "canvasY": 200,
+    "name": "Live",
+    "color": "#000000",
+    "pingOnly": false
+  },
+  {
+    "address": "https://materiaal.12urenloop.be",
+    "canvasX": 200,
+    "canvasY": 200,
+    "name": "Saruman",
+    "color": "#000000",
+    "pingOnly": false
+  }
+]

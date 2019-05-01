@@ -1,0 +1,8 @@
+{
+  "name": "PingDing",
+  "dependencies": {
+    "express": "^4.16.4",
+    "ping": "^0.2.2",
+    "say": "^0.15.0"
+  }
+}
